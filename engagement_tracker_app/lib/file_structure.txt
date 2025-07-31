@@ -1,0 +1,35 @@
+lib/
+├── main.dart
+├── app/
+│   ├── app.dart
+│   └── routes.dart
+├── screens/
+│   ├── home/
+│   │   ├── home_screen.dart
+│   │   ├── dashboard_screen.dart
+│   │   ├── welcome_card.dart
+│   │   └── content_card.dart
+│   ├── rewards/
+│   │   ├── rewards_screen.dart
+│   │   ├── reward_card.dart
+│   │   └── points_summary.dart
+│   ├── scan/
+│   │   └── scan_screen.dart
+│   ├── content/
+│   │   ├── content_screen.dart
+│   │   ├── content_item.dart
+│   │   └── category_button.dart
+│   ├── article/
+│   │   └── article_screen.dart
+│   ├── video/
+│   │   └── video_screen.dart
+│   └── profile/
+│       ├── profile_screen.dart
+│       └── setting_item.dart
+├── components/
+│   ├── app_bar.dart
+│   ├── bottom_nav.dart
+│   └── progress_bar.dart
+└── models/
+    └── content_model.dart
+
